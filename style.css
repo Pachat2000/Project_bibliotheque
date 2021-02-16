@@ -1,26 +1,24 @@
 li {
 	text-align:center;
 	background:rgb(255, 255, 255);
-	width:30%;
-	height:30%;
 }
 body{
-
+	font-size: 2em;
+	margin:center;
+	text-align:center;
 	background-color:rgb(255, 203, 161);
 }
 table{
-	width:15%;
-	height:35%;
+	margin-left: 750px;
+	margin-top:250px;
 	border: solid;
-	background:rgb(255, 255 ,255)
+	background:rgb(255, 255 ,255);
 }
-input#Valider{
+#Valider{
+	margin-left: 140px;
 	text-align:right;
-}
-main{
-	width:15%;
-	height:35%;
 }
 header{
 	background-color:green;
 }
+
