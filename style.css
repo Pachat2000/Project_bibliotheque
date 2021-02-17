@@ -61,8 +61,10 @@ header ul li a:hover{
 }
 
 #logo{
-	margin-left:1630px;
+
+	margin-left:1500px;
 }
+
 div {
-	margin-right: 1250px;
+	right: 1250px;
 }
