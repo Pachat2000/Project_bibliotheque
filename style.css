@@ -1,14 +1,23 @@
-
+footer a{
+	margin-left: 550px;
+}
 body{
-	margin:center;
+
 	text-align:center;
 	background-color:#F8F8FF;
+}
+.log{
+	width:15%;
+	margin:auto;
+	border: none;
+	background-color:#F8F8FF;
+	border-left: 5px solid black;
 }
 table{
 	width:15%;
 	margin:auto;
 	border: solid;
-	background:rgb(255, 255 ,255);
+	background:rgb(255,255,255);
 }
 #Valider{
 	margin-left: 140px;
@@ -62,7 +71,7 @@ header ul li a:hover{
 
 #logo{
 
-	margin-left:1500px;
+	margin-right:1500px;
 }
 
 div {
